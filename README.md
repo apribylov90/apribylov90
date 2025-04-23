@@ -5,7 +5,7 @@
 ### Java / Selenium / REST-assured
 <br/>
 <img src="icons/java.svg" title="Java" alt="Java" width="50" height="50"/>
-<img src="icons/selenium.svg" width="50" height="50"  alt="Selenium"/>  
+<img src="icons/selenium.svg" width="50" height="50"  alt="Selenium"/>
 <img src="icons/restassured.png" title="REST-assured" alt="REST-assured" width="50" height="50"/>
 <br/>
 
